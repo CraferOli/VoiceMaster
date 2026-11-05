@@ -1,6 +1,6 @@
 
 # Discord Server ID
-GUILD_ID = 1158777127567630456
+GUILD_ID = 802221875643547658
 
 # Konfiguration der Voice-Channel-Gruppen
 VOICE_SETUPS = [
@@ -8,22 +8,22 @@ VOICE_SETUPS = [
         "name": "Allgemein",
 
         # Standard-Voice-Channel
-        "standard_channel_id": 1567683136287146064,
+        "standard_channel_id": 1567689075622940672,
 
         # Kategorie, in der Standard und temporäre Channels liegen
-        "category_id": 1158777128150638660,
+        "category_id": 836174526744100894,
 
         # Zusätzliche normale Voice-Channels
         "additional_channel_ids": [
-            1567693296573095946
+            1567716951587819675
         ]
     },
 
     {
         "name": "GTA6",
 
-        "standard_channel_id": 1567683232789430353,
-        "category_id": 1557329814828875796,
+        "standard_channel_id": 1567689121802092715,
+        "category_id": 1565729532835659866,
 
         "additional_channel_ids": []
     },
@@ -31,8 +31,8 @@ VOICE_SETUPS = [
     {
         "name": "Stunting",
 
-        "standard_channel_id": 1567683301316108329,
-        "category_id": 1557331571550195743,
+        "standard_channel_id": 1567689158351126619,
+        "category_id": 1565730152837546174,
 
         "additional_channel_ids": []
     }
